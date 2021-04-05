@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\projects\\brive\\Front\\BriveAppMVC\\BriveAppMVC\\BriveAppMVC.csproj": {}
+    "C:\\Dev\\projects\\brive\\BriveProject\\Front\\BriveAppMVC\\BriveAppMVC\\BriveAppMVC.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\projects\\brive\\Front\\BriveAppMVC\\BriveAppMVC\\BriveAppMVC.csproj": {
+    "C:\\Dev\\projects\\brive\\BriveProject\\Front\\BriveAppMVC\\BriveAppMVC\\BriveAppMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\projects\\brive\\Front\\BriveAppMVC\\BriveAppMVC\\BriveAppMVC.csproj",
+        "projectUniqueName": "C:\\Dev\\projects\\brive\\BriveProject\\Front\\BriveAppMVC\\BriveAppMVC\\BriveAppMVC.csproj",
         "projectName": "BriveAppMVC",
-        "projectPath": "C:\\Dev\\projects\\brive\\Front\\BriveAppMVC\\BriveAppMVC\\BriveAppMVC.csproj",
+        "projectPath": "C:\\Dev\\projects\\brive\\BriveProject\\Front\\BriveAppMVC\\BriveAppMVC\\BriveAppMVC.csproj",
         "packagesPath": "C:\\Users\\980017444\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\projects\\brive\\Front\\BriveAppMVC\\BriveAppMVC\\obj\\",
+        "outputPath": "C:\\Dev\\projects\\brive\\BriveProject\\Front\\BriveAppMVC\\BriveAppMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

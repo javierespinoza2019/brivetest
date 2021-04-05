@@ -1176,11 +1176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.BusinessLogic\\Brive.Inventory.BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.BusinessLogic\\Brive.Inventory.BusinessLogic.csproj",
       "projectName": "Brive.Inventory.BusinessLogic",
-      "projectPath": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.BusinessLogic\\Brive.Inventory.BusinessLogic.csproj",
+      "projectPath": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.BusinessLogic\\Brive.Inventory.BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\980017444\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.BusinessLogic\\obj\\",
+      "outputPath": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -1200,8 +1200,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.Framework\\Brive.Inventory.Framework.csproj": {
-              "projectPath": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.Framework\\Brive.Inventory.Framework.csproj"
+            "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.Framework\\Brive.Inventory.Framework.csproj": {
+              "projectPath": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.Framework\\Brive.Inventory.Framework.csproj"
             }
           }
         }

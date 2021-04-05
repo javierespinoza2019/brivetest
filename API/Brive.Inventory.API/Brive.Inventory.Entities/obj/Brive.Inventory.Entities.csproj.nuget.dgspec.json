@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.Entities\\Brive.Inventory.Entities.csproj": {}
+    "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.Entities\\Brive.Inventory.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.Entities\\Brive.Inventory.Entities.csproj": {
+    "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.Entities\\Brive.Inventory.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.Entities\\Brive.Inventory.Entities.csproj",
+        "projectUniqueName": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.Entities\\Brive.Inventory.Entities.csproj",
         "projectName": "Brive.Inventory.Entities",
-        "projectPath": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.Entities\\Brive.Inventory.Entities.csproj",
+        "projectPath": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.Entities\\Brive.Inventory.Entities.csproj",
         "packagesPath": "C:\\Users\\980017444\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.Entities\\obj\\",
+        "outputPath": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mn5Di7bM4RBk++Dhvk34QPz6pXJ9hqUyRUszHvHrQ4mcNO68E+97FqTjY/zXWgejR/tjWWK8QxROaH3jaSvo/A==",
+  "dgSpecHash": "Iq4a/8z2gqBdm7iwZd5tmpvMenN3xEgP+3znWuUsdxOPTkfIflZe+fv4Pa6EJU8fvkmUYb7MFvligsWkkmcq+Q==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.Entities\\Brive.Inventory.Entities.csproj",
+  "projectFilePath": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.Entities\\Brive.Inventory.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\980017444\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\980017444\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

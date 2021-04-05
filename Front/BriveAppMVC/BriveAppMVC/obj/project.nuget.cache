@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Ba/fpM2Xm+hOg2btreSO95R4s7n9p7n5CAICNzXC/w5h2j3gWGfTD617rv3CEBntfZxMWMO+4IfteUJWxVtaA==",
+  "dgSpecHash": "JUzuAR4PaRRT2NDVFMMFOiTc46ER1qjUIMzgprAVFLzJfcAhXSBrENdSxuvN03qylbADJUD8S7u494sDd5vwZw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\projects\\brive\\Front\\BriveAppMVC\\BriveAppMVC\\BriveAppMVC.csproj",
+  "projectFilePath": "C:\\Dev\\projects\\brive\\BriveProject\\Front\\BriveAppMVC\\BriveAppMVC\\BriveAppMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\980017444\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

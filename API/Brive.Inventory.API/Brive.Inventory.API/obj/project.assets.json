@@ -731,11 +731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.API\\Brive.Inventory.API.csproj",
+      "projectUniqueName": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.API\\Brive.Inventory.API.csproj",
       "projectName": "Brive.Inventory.API",
-      "projectPath": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.API\\Brive.Inventory.API.csproj",
+      "projectPath": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.API\\Brive.Inventory.API.csproj",
       "packagesPath": "C:\\Users\\980017444\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.API\\obj\\",
+      "outputPath": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -755,14 +755,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.BusinessLogic\\Brive.Inventory.BusinessLogic.csproj": {
-              "projectPath": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.BusinessLogic\\Brive.Inventory.BusinessLogic.csproj"
+            "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.BusinessLogic\\Brive.Inventory.BusinessLogic.csproj": {
+              "projectPath": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.BusinessLogic\\Brive.Inventory.BusinessLogic.csproj"
             },
-            "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.DataAccess\\Brive.Inventory.DataAccess.csproj": {
-              "projectPath": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.DataAccess\\Brive.Inventory.DataAccess.csproj"
+            "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.DataAccess\\Brive.Inventory.DataAccess.csproj": {
+              "projectPath": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.DataAccess\\Brive.Inventory.DataAccess.csproj"
             },
-            "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.Framework\\Brive.Inventory.Framework.csproj": {
-              "projectPath": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.Framework\\Brive.Inventory.Framework.csproj"
+            "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.Framework\\Brive.Inventory.Framework.csproj": {
+              "projectPath": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.Framework\\Brive.Inventory.Framework.csproj"
             }
           }
         }

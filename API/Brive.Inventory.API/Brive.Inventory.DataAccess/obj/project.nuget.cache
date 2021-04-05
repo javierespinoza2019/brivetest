@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P8LXJKJCLJ+mKAf1YowQ0ltCd8xNIpw8nUUvh/Vw+uG2RKYf48+7vYrlZaGNcHiGSZhTchqxZ/NfVNU6qNORIw==",
+  "dgSpecHash": "8N2iJto1Nl/p5i2O/UJCX52JVsF82zlMigujmEKTNSyFJ6ONAjWISOl2uBPKmtrGTBwDucchbdq/3uWI9xdEaA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\projects\\brive\\API\\Brive.Inventory.API\\Brive.Inventory.DataAccess\\Brive.Inventory.DataAccess.csproj",
+  "projectFilePath": "C:\\Dev\\projects\\brive\\BriveProject\\API\\Brive.Inventory.API\\Brive.Inventory.DataAccess\\Brive.Inventory.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\980017444\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\980017444\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

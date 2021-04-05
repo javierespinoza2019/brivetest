@@ -12,3 +12,17 @@ C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.DataAccess\obj\Deb
 C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.DataAccess\obj\Debug\netstandard2.0\Brive.Inventory.DataAccess.csproj.CopyComplete
 C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.DataAccess\obj\Debug\netstandard2.0\Brive.Inventory.DataAccess.dll
 C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.DataAccess\obj\Debug\netstandard2.0\Brive.Inventory.DataAccess.pdb
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\bin\Debug\netstandard2.0\Brive.Inventory.DataAccess.deps.json
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\bin\Debug\netstandard2.0\Brive.Inventory.DataAccess.dll
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\bin\Debug\netstandard2.0\Brive.Inventory.DataAccess.pdb
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\bin\Debug\netstandard2.0\Brive.Inventory.Entities.dll
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\bin\Debug\netstandard2.0\Brive.Inventory.Framework.dll
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\bin\Debug\netstandard2.0\Brive.Inventory.Framework.pdb
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\bin\Debug\netstandard2.0\Brive.Inventory.Entities.pdb
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\obj\Debug\netstandard2.0\Brive.Inventory.DataAccess.csprojAssemblyReference.cache
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\obj\Debug\netstandard2.0\Brive.Inventory.DataAccess.AssemblyInfoInputs.cache
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\obj\Debug\netstandard2.0\Brive.Inventory.DataAccess.AssemblyInfo.cs
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\obj\Debug\netstandard2.0\Brive.Inventory.DataAccess.csproj.CoreCompileInputs.cache
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\obj\Debug\netstandard2.0\Brive.Inventory.DataAccess.csproj.CopyComplete
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\obj\Debug\netstandard2.0\Brive.Inventory.DataAccess.dll
+C:\Dev\projects\brive\BriveProject\API\Brive.Inventory.API\Brive.Inventory.DataAccess\obj\Debug\netstandard2.0\Brive.Inventory.DataAccess.pdb
