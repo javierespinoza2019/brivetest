@@ -1,0 +1,86 @@
+04/04/2021 11:06:41 p. m.	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'Brive.Database' del equipo 'PC-HOME' por el usuario 'hp laptop'.
+04/04/2021 11:06:41 p. m.	Se inició la importación del esquema de la base de datos.
+04/04/2021 11:06:55 p. m.	Recopilando credenciales de la base de datos
+04/04/2021 11:06:55 p. m.	Recopilando opciones de base de datos
+04/04/2021 11:06:55 p. m.	Recopilando la opción de configuración de ámbito de la base de datos genérica
+04/04/2021 11:06:55 p. m.	Recopilando usuarios
+04/04/2021 11:06:55 p. m.	Recopilando roles
+04/04/2021 11:06:55 p. m.	Recopilando roles de aplicación
+04/04/2021 11:06:55 p. m.	Recopilando pertenencias a roles
+04/04/2021 11:06:55 p. m.	Recopilando grupos de archivos
+04/04/2021 11:06:55 p. m.	Recopilando catálogos de texto completo
+04/04/2021 11:06:55 p. m.	Recopilando ensamblados
+04/04/2021 11:06:55 p. m.	Recopilando certificados
+04/04/2021 11:06:55 p. m.	Recopilando claves asimétricas
+04/04/2021 11:06:55 p. m.	Recopilando claves simétricas
+04/04/2021 11:06:55 p. m.	Recopilando claves simétricas cifradas
+04/04/2021 11:06:55 p. m.	Recopilando esquemas
+04/04/2021 11:06:55 p. m.	Recopilando colecciones de esquemas XML
+04/04/2021 11:06:55 p. m.	Recopilando tipos de datos definidos por el usuario
+04/04/2021 11:06:55 p. m.	Recopilando tipos definidos por el usuario
+04/04/2021 11:06:55 p. m.	Recopilando tipos de tabla
+04/04/2021 11:06:55 p. m.	Recopilando claves únicas para tipos de tabla
+04/04/2021 11:06:55 p. m.	Recopilando claves principales para tipos de tabla
+04/04/2021 11:06:55 p. m.	Recopilando índices para tipos de tablas
+04/04/2021 11:07:58 p. m.	Recopilando restricciones CHECK para tipos de tabla
+04/04/2021 11:07:58 p. m.	Recopilando restricciones DEFAULT para tipos de tabla
+04/04/2021 11:07:58 p. m.	Recopilando funciones de partición
+04/04/2021 11:07:58 p. m.	Recopilando esquemas de partición
+04/04/2021 11:07:59 p. m.	Recopilando funciones
+04/04/2021 11:07:59 p. m.	Recopilando funciones cifradas
+04/04/2021 11:08:00 p. m.	Recopilando agregados
+04/04/2021 11:08:01 p. m.	Recopilando procedimientos
+04/04/2021 11:08:01 p. m.	Recopilando procedimientos cifrados
+04/04/2021 11:08:06 p. m.	Recopilando tablas
+04/04/2021 11:08:07 p. m.	Recopilando claves principales
+04/04/2021 11:08:07 p. m.	Recopilando restricciones UNIQUE
+04/04/2021 11:08:07 p. m.	Recopilando claves externas
+04/04/2021 11:08:07 p. m.	Recopilando restricciones DEFAULT
+04/04/2021 11:08:07 p. m.	Recopilando restricciones CHECK
+04/04/2021 11:08:08 p. m.	Recopilando vistas
+04/04/2021 11:08:08 p. m.	Recopilando vistas cifradas
+04/04/2021 11:08:08 p. m.	Recopilando índices
+04/04/2021 11:08:08 p. m.	Recopilando estadísticas
+04/04/2021 11:08:08 p. m.	Recopilando listas de palabras irrelevantes de índices de texto completo
+04/04/2021 11:08:08 p. m.	Recopilando listas de propiedades de búsqueda
+04/04/2021 11:08:08 p. m.	Recopilando propiedades de búsqueda
+04/04/2021 11:08:08 p. m.	Recopilando índices de texto completo
+04/04/2021 11:08:08 p. m.	Recopilando índices de almacenamiento de columnas
+04/04/2021 11:08:09 p. m.	Recopilando índices espaciales
+04/04/2021 11:08:09 p. m.	Recopilando índices XML
+04/04/2021 11:08:09 p. m.	Recopilando índices XML selectivos
+04/04/2021 11:08:09 p. m.	Recopilando desencadenadores cifrados
+04/04/2021 11:08:09 p. m.	Recopilando desencadenadores
+04/04/2021 11:08:09 p. m.	Recopilando DDL triggers cifrados y de CLR
+04/04/2021 11:08:09 p. m.	Recopilando DDL triggers
+04/04/2021 11:08:09 p. m.	Creación de la restricción perimetral en curso
+04/04/2021 11:08:09 p. m.	Recopilando sinónimos
+04/04/2021 11:08:10 p. m.	Recopilando valores predeterminados
+04/04/2021 11:08:10 p. m.	Recopilando enlaces UDDT de restricción de datos
+04/04/2021 11:08:11 p. m.	Recopilando reglas
+04/04/2021 11:08:11 p. m.	Recopilando enlaces UDDT de restricción de datos
+04/04/2021 11:08:11 p. m.	Recopilando tipos de mensaje
+04/04/2021 11:08:11 p. m.	Recopilando colas
+04/04/2021 11:08:11 p. m.	Recopilando contratos
+04/04/2021 11:08:11 p. m.	Recopilando servicios
+04/04/2021 11:08:11 p. m.	Recopilando notificaciones de eventos
+04/04/2021 11:08:11 p. m.	Recopilando enlaces de servicio remoto
+04/04/2021 11:08:11 p. m.	Recopilando prioridades de Broker
+04/04/2021 11:08:11 p. m.	Recopilando firmas
+04/04/2021 11:08:11 p. m.	Recopilando opciones de compresión de datos
+04/04/2021 11:08:11 p. m.	Recopilando tipos de secuencia
+04/04/2021 11:08:11 p. m.	Recopilando directivas de seguridad
+04/04/2021 11:08:11 p. m.	Recopilar claves de cifrado de columna
+04/04/2021 11:08:11 p. m.	Recopilando claves maestras de columna
+04/04/2021 11:08:11 p. m.	Recopilando orígenes de datos externos
+04/04/2021 11:08:11 p. m.	Recopilando formatos de archivo externos
+04/04/2021 11:08:12 p. m.	Recopilando tablas externas
+04/04/2021 11:08:12 p. m.	Recopilando propiedades extendidas
+04/04/2021 11:08:15 p. m.	Recopilando credenciales
+04/04/2021 11:08:15 p. m.	Recopilando inicios de sesión
+04/04/2021 11:08:15 p. m.	Recopilando auditorías de servidor
+04/04/2021 11:08:15 p. m.	Buscando elementos duplicados en el proyecto
+04/04/2021 11:08:15 p. m.	Ha finalizado el procesamiento de los elementos duplicados
+04/04/2021 11:08:16 p. m.	Finalizó la importación de la base de datos.
+04/04/2021 11:08:16 p. m.	Se guardó un resumen de la importación en la siguiente ubicación: C:\Dev\projects\brive\BriveProject\DB\Brive.Database\Brive.Database\Registros de importación de esquemas\Brive.Database_20210405040641.log
+04/04/2021 11:08:16 p. m.	Haga clic en Finalizar para continuar...
