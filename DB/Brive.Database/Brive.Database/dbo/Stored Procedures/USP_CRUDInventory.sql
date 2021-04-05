@@ -54,21 +54,17 @@ BEGIN
 		IF @ReturnAll=1 BEGIN
 			With InventoryActived As
 			(
-				SELECT 
-					S.[Name] AS StoreName,
-					I.[Barcode],
+				SELECT DISTINCT
+					P.[Barcode],
 					P.[Name] AS ProductName,
 					P.UnitPrice,
-					SUM(I.[Quantity]) AS Existence
+					dbo.CalculateExistenceByBarcode(P.Barcode, @StoreId) AS Existence,
+					S.[Name] AS StoreName
 				FROM [Inventory] I WITH(NOLOCK)
-				INNER JOIN Product P WITH(NOLOCK) on P.Barcode = I.[Barcode] 
-				INNER JOIN Store S WITH(NOLOCK) on S.Id = I.StoreId 
+				FULL OUTER JOIN Product P WITH(NOLOCK) ON P.Barcode = I.[Barcode] AND I.StoreId = @StoreId
+				LEFT JOIN Store S WITH(NOLOCK) on S.Id = COALESCE(I.StoreId,@StoreId) 
 				WHERE ((COALESCE(@ProductName,'') = '') OR (P.[Name] LIKE '%' + @ProductName + '%'))
-				  AND ((COALESCE(@StoreId,0) = 0) OR (I.StoreId = @StoreId))
-				GROUP BY S.[Name],
-						 I.[Barcode],
-						 P.[Name],
-						 P.UnitPrice
+					AND COALESCE(P.Barcode,'') != ''
 			),
 			RecordCount AS (SELECT TOP(1) COUNT(1) As TotalRecords FROM InventoryActived)
 			Select *
@@ -81,21 +77,17 @@ BEGIN
 		ELSE BEGIN
 			With InventoryActived As
 			(
-				SELECT 
-					S.[Name] AS StoreName,
-					I.[Barcode],
+				SELECT DISTINCT
+					P.[Barcode],
 					P.[Name] AS ProductName,
 					P.UnitPrice,
-					SUM(I.[Quantity]) AS Existence
+					dbo.CalculateExistenceByBarcode(P.Barcode, @StoreId) AS Existence,
+					S.[Name] AS StoreName
 				FROM [Inventory] I WITH(NOLOCK)
-				INNER JOIN Product P WITH(NOLOCK) on P.Barcode = I.[Barcode] 
-				INNER JOIN Store S WITH(NOLOCK) on S.Id = I.StoreId 
+				FULL OUTER JOIN Product P WITH(NOLOCK) ON P.Barcode = I.[Barcode] AND I.StoreId = @StoreId
+				LEFT JOIN Store S WITH(NOLOCK) on S.Id = COALESCE(I.StoreId,@StoreId) 
 				WHERE ((COALESCE(@ProductName,'') = '') OR (P.[Name] LIKE '%' + @ProductName + '%'))
-				  AND ((COALESCE(@StoreId,0) = 0) OR (I.StoreId = @StoreId))
-				GROUP BY S.[Name],
-						 I.[Barcode],
-						 P.[Name],
-						 P.UnitPrice
+					AND COALESCE(P.Barcode,'') != ''
 			),
 			RecordCount AS (SELECT TOP(1) COUNT(1) As TotalRecords FROM InventoryActived)
 			Select *
