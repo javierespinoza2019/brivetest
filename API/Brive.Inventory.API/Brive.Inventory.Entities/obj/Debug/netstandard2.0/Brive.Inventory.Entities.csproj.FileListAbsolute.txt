@@ -1,0 +1,9 @@
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Entities\bin\Debug\netstandard2.0\Brive.Inventory.Entities.deps.json
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Entities\bin\Debug\netstandard2.0\Brive.Inventory.Entities.dll
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Entities\bin\Debug\netstandard2.0\Brive.Inventory.Entities.pdb
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Entities\obj\Debug\netstandard2.0\Brive.Inventory.Entities.csprojAssemblyReference.cache
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Entities\obj\Debug\netstandard2.0\Brive.Inventory.Entities.AssemblyInfoInputs.cache
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Entities\obj\Debug\netstandard2.0\Brive.Inventory.Entities.AssemblyInfo.cs
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Entities\obj\Debug\netstandard2.0\Brive.Inventory.Entities.csproj.CoreCompileInputs.cache
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Entities\obj\Debug\netstandard2.0\Brive.Inventory.Entities.dll
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Entities\obj\Debug\netstandard2.0\Brive.Inventory.Entities.pdb

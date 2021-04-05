@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Brive.Inventory.BusinessLogic\Brive.Inventory.BusinessLogic.csproj" />
+    <ProjectReference Include="..\Brive.Inventory.DataAccess\Brive.Inventory.DataAccess.csproj" />
+    <ProjectReference Include="..\Brive.Inventory.Framework\Brive.Inventory.Framework.csproj" />
+  </ItemGroup>
+
+
+</Project>

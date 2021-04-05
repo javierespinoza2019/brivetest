@@ -1,0 +1,12 @@
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Framework\bin\Debug\netstandard2.0\Brive.Inventory.Entities.dll
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Framework\obj\Debug\netstandard2.0\Brive.Inventory.Framework.csprojAssemblyReference.cache
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Framework\obj\Debug\netstandard2.0\Brive.Inventory.Framework.AssemblyInfoInputs.cache
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Framework\obj\Debug\netstandard2.0\Brive.Inventory.Framework.AssemblyInfo.cs
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Framework\bin\Debug\netstandard2.0\Brive.Inventory.Framework.deps.json
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Framework\bin\Debug\netstandard2.0\Brive.Inventory.Framework.dll
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Framework\bin\Debug\netstandard2.0\Brive.Inventory.Framework.pdb
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Framework\bin\Debug\netstandard2.0\Brive.Inventory.Entities.pdb
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Framework\obj\Debug\netstandard2.0\Brive.Inventory.Framework.csproj.CoreCompileInputs.cache
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Framework\obj\Debug\netstandard2.0\Brive.Inventory.Framework.csproj.CopyComplete
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Framework\obj\Debug\netstandard2.0\Brive.Inventory.Framework.dll
+C:\Dev\projects\brive\API\Brive.Inventory.API\Brive.Inventory.Framework\obj\Debug\netstandard2.0\Brive.Inventory.Framework.pdb

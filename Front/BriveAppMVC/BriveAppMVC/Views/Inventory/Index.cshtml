@@ -1,0 +1,100 @@
+﻿@{
+    ViewData["Title"] = "CONTROL DE INVENTARIOS";
+}
+<h1>@ViewData["Title"]</h1>
+<p>Sistema para gestion de inventarios.</p>
+<br />
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+<div class="container">
+    <div class="row" style="margin-left:5px;">
+        <input type="text" style="margin-right: 10px; margin-top: 10px;" class="col-3 form-control" id="txtFilter" placeholder="Buscador de productos">
+        <select class="col-2 form-control" style="margin-right: 10px; margin-top: 10px;" id="selStoreFilter"></select>
+        <button type="button" class="btn btn-dark custom-button col-2" id="btnSearch">Buscar</button>
+        <button type="button" class="btn btn-dark custom-button col-2" style="margin-left: 10px;" data-toggle="modal" data-target="#newProductModal">Nuevo Producto</button>
+        <button type="button" class="btn btn-dark custom-button col-2" data-toggle="modal" data-target="#newMovementModal">Crear Movimiento</button>
+    </div>
+    <table id="tableInventories" class="table table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Nombre del Producto</th>
+                <th scope="col">Codigo de Barras</th>
+                <th scope="col">Existencia</th>
+                <th scope="col">Sucursal</th>
+                <th scope="col">Precio Unitario</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+<div class="modal fade" id="newProductModal" tabindex="-1" role="dialog" aria-labelledby="newProductModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="newProductModalLabel">NUEVO PRODUCTO</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="txtBarcode">Codigo de Barras</label>
+                        <input type="text" class="form-control" id="txtBarcode" placeholder="Ingrese codigo de barras">
+                    </div>
+                    <div class="form-group">
+                        <label for="txtName">Nombre del Producto</label>
+                        <input type="text" class="form-control" id="txtName" placeholder="Ingrese nombre del producto">
+                    </div>
+                    <div class="form-group">
+                        <label for="txtCost">Costo</label>
+                        <input type="text" class="form-control" id="txtCost" placeholder="Ingrese costo">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="btnCloseNewProduct" class="btn btn-dark custom-button" data-dismiss="modal">CERRAR</button>
+                <button type="button" id="btnSaveNewProduct" class="btn btn-dark custom-button">GUARDAR</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="newMovementModal" tabindex="-1" role="dialog" aria-labelledby="newMovementModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="newMovementModalLabel">NUEVO MOVIMIENTO</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="selProduct">Seleccione un producto</label>
+                        <select class="form-control" id="selProduct">
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="txtQuantity">Cantidad</label>
+                        <input type="text" class="form-control" id="txtQuantity" placeholder="Ingrese cantidad">
+                    </div>
+                    <div class="form-group">
+                        <label for="selStore">Seleccione una sucursal</label>
+                        <select class="form-control" id="selStore">
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="btnCloseNewMovement" class="btn btn-dark custom-button" data-dismiss="modal">CERRAR</button>
+                <button type="button" id="btnSaveNewMovement" class="btn btn-dark custom-button">GUARDAR</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/js/inventory/inventoryController.js"></script>
